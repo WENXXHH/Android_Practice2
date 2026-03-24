@@ -5,7 +5,7 @@
 一个简单的Android应用，用于练习便编写一个较为复杂且相当美观的聊天界面
 
 ## 功能亮点
-
+使用9Patch图片作为聊天框，使用RecyclerView显示聊天内容，支持输入发送信息
 
 ## 技术栈
 - Android Studio
